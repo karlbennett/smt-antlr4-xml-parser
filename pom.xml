@@ -6,7 +6,7 @@
     <parent>
         <groupId>shiver.me.timbers</groupId>
         <artifactId>smt-parent-pom</artifactId>
-        <version>1.0</version>
+        <version>1.0-SNAPSHOT</version>
     </parent>
 
     <artifactId>smt-antlr4-xml-parser</artifactId>
